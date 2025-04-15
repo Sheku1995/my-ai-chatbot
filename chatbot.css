@@ -1,12 +1,14 @@
 body {
   font-family: Arial, sans-serif;
   background: #f1f1f1;
+  height: 100vh;
+}
+main {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 85%;
 }
-
 .chat-container {
   width: 100%;
   max-width: 400px;
@@ -67,4 +69,17 @@ button {
   background: #009688;
   color: white;
   cursor: pointer;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #009688;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+footer p {
+  margin: 0;
+  font-size: 18px;
 }

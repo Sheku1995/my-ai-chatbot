@@ -4,7 +4,7 @@ const userInput = document.getElementById("user-input");
 const responses = {
   "hello": "Hello! How di bɔdi? Welcome to Salone Code Academy. How can I help you?",
   "hi": "Hi! Wetin you want learn today? Coding or about Salone Code Academy?",
-  "what is salone code academy": "Salone Code Academy na wan local coding bootcamp for Salone. We de teach HTML, CSS, JavaScript, React and more. E easy, e cheap, and na Krio we de explain am.",
+  "what is salone coding academy": "Salone Coding Academy na wan local coding bootcamp for Salone. We de teach HTML, CSS, JavaScript, React and more. E easy, e cheap, and na Krio we de explain am.",
   "why was salone code academy created": "We create Salone Code Academy because most pikin dem no get chance for learn coding for private institute dem. We wan make tech easy for everybody.",
   "who can join salone code academy": "Anybody we wan learn coding fit join. Even if you never touch computer before, we go start small small.",
   "how to join": "Just reach we through WhatsApp or the website. Na group class we de do face-to-face, but we go guide you.",
